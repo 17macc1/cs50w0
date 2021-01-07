@@ -1,0 +1,67 @@
+.main {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 13px;
+}
+
+.nav {
+    padding: 1rem;
+}
+
+nav a {
+    padding: 0.25em;
+}
+
+nav div > .btn {
+    color: white;
+}
+
+.btn1:hover {
+    border: 1px solid grey;
+    box-shadow: 5px 5px black;
+}
+
+.logo > img {
+    margin: 6em;
+    margin-top: 3em;
+    margin-bottom: 1em;
+    width: 272px; 
+}
+
+#search_bar {
+    width: 30em;
+    border-radius:10px;
+    border: 1px solid grey;
+    margin-bottom: 1em;
+}
+
+button, .btn {
+    font-size: 13px;
+}
+
+.btn1 {
+    background: #ebebeb;
+    margin: 1em;
+    border: 0;
+}
+
+footer {
+    background-color: #d3d3d3;
+}
+
+footer div a{
+    margin: 0.3em;
+}
+
+a, a:link, a:visited {
+    color: black;
+}
+
+.f_mid {
+    text-align: center;
+}
+
+.f_right {
+    text-align: right;
+}
+
